@@ -1,0 +1,13 @@
+main: me.jhoboken.RandomBlockMinigame.Main
+name: RandomBlockMinigame
+version: 1.0
+author: jhoboken
+api-version: 1.16
+commands:
+  addToRBM:
+  addAllToRBM: 
+  removeFromRBM: 
+  removeAllFromRBM:
+  startRBM:
+  getRBMList: 
+  reroll:
